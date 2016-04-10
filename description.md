@@ -19,4 +19,4 @@ Sending a message - Once the send button is clicked after typing the message, a 
 
 Receiving a message - The important advantage of GCM is that it uses push notification mechanism where server sends messages to a device so that it need not poll the server continuously for messages which drains battery power. On receiving a message, the PushNotificationService creates a notification and calls the broadcast receiver. The receiver generates a notification, generates the sound and increments the message count. Thus the user gets to know that a new message has been received. 
 
-So that is a complete description about my work in designing this app. The other apps that I made I have already described in my application. Currently I am retrying at building a chat app, however this time I am working with Firebase API. Hopefully, I will get it right this time! 
+So that is a complete description about my work in designing this app. 
